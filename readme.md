@@ -24,6 +24,9 @@
   <h2>Mudança de data</h2>
 <li>Clique sobre a data e selecione uma nova data
   <hr>
+  <h2>Apagar data</h2>
+  <li>No label da data, clique no "x" ou clique no botão direito do mouse sobre a data<br> e escolha a opção "Limpar valores"
+  <hr>
  <h2>Criar tarefa sem título</h2>
 <li>Clique no sinal de "+" para adicionar
 <li>Pressione enter sem por nome na tarefa
