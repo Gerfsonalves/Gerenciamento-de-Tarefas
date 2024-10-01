@@ -1,4 +1,5 @@
  <div align="center"><h1> Gerenciamento de Tarefas</h1>
+
  <p>
  <h2>Criar uma nova tarefa</h2>
  <li>Acesse a página
@@ -11,7 +12,7 @@
  <hr>
  <h2>Status</h2>
  <li>Clique em status
- <li>Selecione o andamento da tarefa /Feito/Em andamento/Parado/Não iniciado
+ <li>Selecione o andamento da tarefa Ex: /Feito/Em andamento/Parado/Não iniciado
 <hr>
  <h2>Data</h2>
  <li>Clique no sinal de "+" para adicionar
@@ -34,7 +35,7 @@
 <h2>Atualizar informações da tarefa</h2>
 <li>Clique sobre a tarefa
 <li>No campo "Escrever uma atualilização..." digite as novas informações
-<li>clique em atualizar após fazer a alteração
+<li>clique no botão atualizar após fazer a alteração
 <h2>Excluir tarefa</h2>
 <li>Clique com botão direito do mouse sobre a tarefa
 <li>Selecione a opção de excluir
@@ -42,22 +43,3 @@
 <li>
 <li>
  </p>
-
- Desafio:
-Suponha que você trabalhe em uma equipe de teste de um aplicativo de gerenciamento de tarefas. O aplicativo permite que os usuários criem, editem, excluam e marquem tarefas como concluídas. Sua tarefa é realizar a atividade de Modelagem de Teste para um cenário específico. 
-
-Aqui está o cenário específico:
-
-Cenário: Um usuário deseja criar uma nova tarefa no aplicativo de gerenciamento de tarefas.
-
-Tarefa:
-
-ok 1. Identifique as principais condições de teste necessárias para garantir que a funcionalidade de criação de tarefas funcione corretamente.
-
-ok 2. Elabore um caso de teste simples descrevendo os passos que o usuário deve seguir para criar uma nova tarefa.
-
-ok 3. Identifique as entradas necessárias para o caso de teste, como o título da tarefa, a data de vencimento, a descrição, etc.
-
-4. Pense em alguns cenários de teste adicionais que possam ser relevantes para testar a criação de tarefas. Por exemplo, o que acontece se o usuário não fornecer um título? 
-
-5. Considere como você documentaria os resultados do teste, ou seja, como você registraria se a tarefa foi criada com sucesso ou se ocorreu algum problema.
