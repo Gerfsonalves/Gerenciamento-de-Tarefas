@@ -31,12 +31,13 @@
 <h2>Adicionar data sem criar tarefa</h2>
 <li>Não deve aparecer a opção para criar a função
  <hr>
-<h2></h2>
-<li>
-<li>
-<h2></h2>
-<li>
-<li>
+<h2>Atualizar informações da tarefa</h2>
+<li>Clique sobre a tarefa
+<li>No campo "Escrever uma atualilização..." digite as novas informações
+<li>clique em atualizar após fazer a alteração
+<h2>Excluir tarefa</h2>
+<li>Clique com botão direito do mouse sobre a tarefa
+<li>Selecione a opção de excluir
 <h2></h2>
 <li>
 <li>
