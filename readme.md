@@ -28,7 +28,7 @@
 <h2>Adicionar status sem criar tarefa</h2>
 <li>Não deve aparecer a opção para criar a função
  <hr>
-<h2>dicionar data sem criar tarefa</h2>
+<h2>Adicionar data sem criar tarefa</h2>
 <li>Não deve aparecer a opção para criar a função
  <hr>
 <h2></h2>
