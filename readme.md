@@ -4,7 +4,7 @@
  <h2>Criar uma nova tarefa</h2>
  <li>Acesse a página
  <li>Clique em adicionar tarefa
- <li>Digite sua tarefa e tecle "Enter" para criar a tarefa
+ <li>Digite o nome de sua tarefa e tecle "Enter" para criar a tarefa
  <hr>
  <h2>Responsável</h2>
  <li>Clique no sinal de "+" para adicionar
@@ -16,14 +16,13 @@
 <hr>
  <h2>Data</h2>
  <li>Clique no sinal de "+" para adicionar
- <li>Clique na data desejada
+ <li>Selecione e clique na data desejada
  <hr>
 <h2>Mudança de status</h2>
 <li>Clique sobre o status e adicione um novo estado Ex: /Feito/Em andamento/Parado/Não iniciado
  <hr>
   <h2>Mudança de data</h2>
 <li>Clique sobre a data e selecione uma nova data
-<li>
   <hr>
  <h2>Criar tarefa sem título</h2>
 <li>Clique no sinal de "+" para adicionar
@@ -44,10 +43,6 @@
 <li>No campo "Escrever uma atualilização..." digite as novas informações
 <li>clique no botão atualizar após fazer a alteração
  <hr>
- <h2></h2>
-<li>
-<li>
-  <hr>
 <h2>Excluir tarefa</h2>
 <li>Clique com botão direito do mouse sobre a tarefa
 <li>Selecione a opção de excluir
