@@ -18,6 +18,13 @@
  <li>Clique no sinal de "+" para adicionar
  <li>Clique na data desejada
  <hr>
+<h2>Mudança de status</h2>
+<li>Clique sobre o status e adicione um novo estado Ex: /Feito/Em andamento/Parado/Não iniciado
+ <hr>
+  <h2>Mudança de data</h2>
+<li>Clique sobre a data e selecione uma nova data
+<li>
+  <hr>
  <h2>Criar tarefa sem título</h2>
 <li>Clique no sinal de "+" para adicionar
 <li>Pressione enter sem por nome na tarefa
@@ -36,10 +43,13 @@
 <li>Clique sobre a tarefa
 <li>No campo "Escrever uma atualilização..." digite as novas informações
 <li>clique no botão atualizar após fazer a alteração
+ <hr>
+ <h2></h2>
+<li>
+<li>
+  <hr>
 <h2>Excluir tarefa</h2>
 <li>Clique com botão direito do mouse sobre a tarefa
 <li>Selecione a opção de excluir
-<h2></h2>
-<li>
-<li>
+
  </p>
