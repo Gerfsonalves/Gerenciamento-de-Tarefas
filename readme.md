@@ -23,13 +23,13 @@
 <li>A mesma não será criada, até inserir um nome para a tarefa
  <hr>
 <h2>Adicionar responsável sem criar tarefa</h2>
-<li>Não deve aparecer a opção para cria a função
+<li>Não deve aparecer a opção para criar a função
  <hr>
 <h2>Adicionar status sem criar tarefa</h2>
-<li>Não deve aparecer a opção para cria a função
+<li>Não deve aparecer a opção para criar a função
  <hr>
 <h2>dicionar data sem criar tarefa</h2>
-<li>Não deve aparecer a opção para cria a função
+<li>Não deve aparecer a opção para criar a função
  <hr>
 <h2></h2>
 <li>
